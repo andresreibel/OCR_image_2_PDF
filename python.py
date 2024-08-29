@@ -1,3 +1,6 @@
+# Required modules can be installed using:
+# pip install -r requirements.txt
+
 import os
 from PIL import Image
 import pytesseract
