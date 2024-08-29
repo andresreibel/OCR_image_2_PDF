@@ -2,3 +2,8 @@
 /ocr_output
 
 *.pdf
+
+# Exclude any virtual environment directories
+venv/
+env/
+.venv/
